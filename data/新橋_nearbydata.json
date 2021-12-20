@@ -1,0 +1,592 @@
+{
+    "カラオケ": [
+        {
+            "名前": "カラオケ館 新橋店",
+            "評価": 3.3,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJadMJweuLGGARd_-emT_G92g",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "カラオケ館 新橋外堀通り店",
+            "評価": 3.4,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJVVWlw-mLGGAREc7yT7QeYSY",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "カラオケ ビッグエコー新橋SL広場駅前店",
+            "評価": 3.2,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJV-wewOuLGGAR7SfO-Gvqrbg",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "カラオケ747 新橋店",
+            "評価": 3.1,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJ7SHRhOuLGGARJobB6biRkIo",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "カラオケまねきねこ新橋２丁目店",
+            "評価": 2.6,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJExD3u3eLGGARGr6e89LwPn4",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "カラオケまねきねこ新橋レンガ通り店",
+            "評価": 3.8,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJaZqyouuLGGAR7qORIoWBjEo",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "カラオケ Bar 桜花",
+            "評価": 5,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJn16L6euLGGARwedlK3xqL-8",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "カラオケBar 暴れん坊",
+            "評価": 0,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJAUEPIluLGGARDWgAyp7TfCU",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "カラオケの鉄人 新橋SL広場前店",
+            "評価": 3.1,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJ1YAkzuuLGGAROXTa8BWXDmI",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "コロッケ倶楽部 新橋店",
+            "評価": 3.3,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJpbZFpOuLGGARt9L6Tt0JKZg",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "カラオケの鉄人 新橋店",
+            "評価": 3.2,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJzVKtyuuLGGARcPJrHoeGI_E",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "KARAOKE BAR Natural Resort",
+            "評価": 0,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJb3W-EAeLGGARTzH1up3NVF0",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "カラオケ ビッグエコー新橋銀座口駅前店",
+            "評価": 3.5,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJe9-5cumLGGARPqvRHWrGpT8",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "カラオケ館 新橋本店",
+            "評価": 3.4,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJZ1thoOmLGGAR5xW-JMgNV04",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "カラオケ屋かぐや姫",
+            "評価": 3.8,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJtf05suuLGGAR0PZs1dy4OYI",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "カラオケ ビッグエコー新橋烏森口店",
+            "評価": 3.4,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJgxW6J-qLGGARPoKuQdd1peQ",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "カラオケスナックざうるす",
+            "評価": 5,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJNwa_UE6LGGAR1j_uzIn-1YQ",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "カラオケ ビッグエコー銀座店",
+            "評価": 2.8,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJ1RtkAemLGGARQKwnPdrnvKg",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "カラオケバー マシェリ",
+            "評価": 4.7,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJ61KY2-uLGGARA6M2g4VpxdE",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "VIGO 銀座コリドー街店",
+            "評価": 4.2,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJz0cy0u6LGGARNACobzmbYiw",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "カラオケパブ さくら",
+            "評価": 0,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJZd164iiLGGAR3OOz8T8xhRs",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "来来",
+            "評価": 4,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJ8cUl-lOLGGARAhjZaXSKka0",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "カラオケ Bar La Chika",
+            "評価": 0,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJSd1CV9qLGGARbyW-bbnfi1k",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "歌う家",
+            "評価": 4.4,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJXVZPVvuLGGARQz52ORkc0uY",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "エンジョイバー",
+            "評価": 3.8,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJMVHm7OuLGGARbAJNq1Jgsd4",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "moonbow",
+            "評価": 4.6,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJOXSBseuLGGARTSjx9BP1SqI",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "新橋オールイン カラオケバー",
+            "評価": 0,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJp--odq6LGGARlTzmVTK2qZU",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "ＦｏｏｄＢａｒ・ＮＩＮＥ",
+            "評価": 4.3,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJsww6suuLGGARU4JPabfyhwI",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "エスタード（ＥＳＴＡＤＯ）銀座店",
+            "評価": 3.8,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJZakh9eiLGGARMaGXJWKNlRM",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "KARAOKE ACE GINZA",
+            "評価": 3.7,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJdzzrjOiLGGARwHrvV5fivqg",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "コインバー べろんちょ",
+            "評価": 4.1,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJwxG19OiLGGARhMMzA2_g8Nk",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "KARAOKE LOUNGE 7",
+            "評価": 4,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJsfCfz-iLGGARKfWvGFU2WGI",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "フルスイング",
+            "評価": 5,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJx3EiluiLGGAR8feM4vZg02o",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "Karat",
+            "評価": 4.1,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJ0W7rxeiLGGARmK73IDabVdc",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "BAGUS GOLKA ―バグースゴルカ― 銀座",
+            "評価": 4.2,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJR18XfOiLGGARjdPhzvlF6iM",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "カラオケステラ (stella)",
+            "評価": 0,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJg8jDwOiLGGAReaxYqcu-suY",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "Freesia（フリージア）",
+            "評価": 4.5,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJ9aTo1uiLGGARhIB-l2jDK34",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "カラオケパセラ銀座店",
+            "評価": 3.8,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJlVBCOOaLGGARmeBoAzQ9yV8",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "カラオケの鉄人 銀座店",
+            "評価": 3.3,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJ06RiVuaLGGARDJlcYLu-MSA",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "BAGUS EXE －バグースエグゼ－銀座店",
+            "評価": 4,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJ78uW5eCLGGAR_fwUihWFKQE",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "カラオケスナック雅",
+            "評価": 4.4,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJyemkw-mLGGARnf78W6PqW08",
+            "昼価格": null,
+            "夜価格": null
+        }
+    ],
+    "水族館・動物園": [],
+    "ボウリング": [],
+    "美術館・博物館": [
+        {
+            "名前": "クリエイションギャラリー G8",
+            "評価": 4.1,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJMwWbPOmLGGARrxLL-Yvc4ZE",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "ＳＴＡＧＥ銀座",
+            "評価": 3.6,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJkxEO3OiLGGARNoi-g2_Kmew",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "パナソニック汐留美術館",
+            "評価": 4,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJ6Sypp8KLGGAR4lmmX-zFFmo",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "アートギャラリー 閑々居",
+            "評価": 4,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJ0SdPfwuLGGAR-hl-SmsOQBY",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "ギャラリー美庵",
+            "評価": 3.7,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJX_Vf8uiLGGARPNYGLI8YKAk",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "㈱兜屋画廊",
+            "評価": 3.9,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJVUlT8-iLGGARHW0KC8waB3c",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "渡辺木版美術画舗",
+            "評価": 3.9,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJJUG65uiLGGARp8GxfXg4GM8",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "銀座貴族",
+            "評価": 4.8,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJ2TZOjOiLGGARntDL2jPkDmU",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "ギャラリーナミキ",
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJv6LlH-mLGGARmEir8OBlq3s",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "㈱フマギャラリー",
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJcy6g9eiLGGARwYKjOmd_R6M",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "月光荘画室Ⅱ",
+            "評価": 3.6,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJVVUs7uiLGGAR_ab2gCx-ApI",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "Watanabe Shōzaburō",
+            "評価": 4.3,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJJUG65uiLGGARBRYUd9x6BFM",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "月光荘 画室３",
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJ6TL-RGqLGGARM6RJ-V7htBg",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "ワダ・ファインアーツ",
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJ_____2CJGGAR4otufznIOBg",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "（有）ギャラリーヤマダ",
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJzy8P48GLGGARdzPPui07Mmg",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "ギャラリーテン.",
+            "評価": 4.4,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJOWFTtumLGGARYyzbfDtnBCM",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "はるじ堂",
+            "評価": 5,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJOWFTtumLGGARNCXOuojbpKM",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "旧新橋停車場 鉄道歴史展示室",
+            "評価": 3.9,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJ3YkTH-iLGGARFeFdXRMTGCA",
+            "昼価格": null,
+            "夜価格": null
+        }
+    ],
+    "公園": [
+        {
+            "名前": "新橋駅西口広場（SL広場）",
+            "評価": 3.6,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJ--QO2OuLGGARArLS5ggknfU",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "喫煙所（SL広場）",
+            "評価": 3,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJvYs8J_-LGGARW5X_Jru3yCc",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "喫煙所（新橋駅前交番側）",
+            "評価": 3.5,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJAWq_O0aLGGARoCouhGDUa1Y",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "桜田公園",
+            "評価": 3.5,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJU2yfPOqLGGAR5kyogpBYaUY",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "環二通り 西新橋中央路側帯",
+            "評価": 5,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJuStyxvaLGGARj2Bz1mvS4PI",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "Zone fumeur",
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJEyGMqleLGGARXZKSWV726AE",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "Smoking Area",
+            "評価": 3.3,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJV3jf0IyLGGAR-Soz2po9r9E",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "新橋柳通り",
+            "評価": 4,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJAfX_IuuLGGARdMBzqzQRQeA",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "Upgrade",
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJbfbrVe-LGGAR08Na3VVQekY",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "ダイアログ・イン・ザ・ダーク ジャパン Tokyo Diversity Lab.",
+            "評価": 4.5,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJfbKgG5iMGGARQ9EQcG1KuZY",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "株式会社ワールドインテックパーク マネジメント事業本部",
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJUfaFX8GLGGARs3n4ehFWRpQ",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "㈱ファーム 東京支店",
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJUfaFX8GLGGARV_F7hoGyhuQ",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "CULAFUL(キュラフル)",
+            "評価": 3.9,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJRTLp9g2LGGARWcd7vxc-wRQ",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "この木なんの木ガーデン",
+            "評価": 3.8,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJgSQhacKLGGARWxlAFD-6NCs",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "Roadside bamboo trees",
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJg_NqJ4mLGGAR3bzAQj0Hgbg",
+            "昼価格": null,
+            "夜価格": null
+        }
+    ]
+}

@@ -1,0 +1,702 @@
+{
+    "カラオケ": [
+        {
+            "名前": "カラオケまねきねこ桜木町店",
+            "評価": 3.4,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJfYS9xF9cGGARyti6fFFI8wE",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "カラオケの鉄人 桜木町店",
+            "評価": 3.4,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJdxx_119cGGARpjeG6Ul90Wo",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "カラオケ館 野毛店",
+            "評価": 3.6,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJjW0mEmBcGGAROPubyNlTvww",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "カラオケ杉の子",
+            "評価": 3.8,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJdYsj419cGGARsuRbIcfldRM",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "野毛カラオケ居酒屋",
+            "評価": 5,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJ_TcESsRdGGAR74C3s3fLGlo",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "カラオケBAR まりちゃんち",
+            "評価": 4.8,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJ6XRU1SpdGGARFMATVf6uEr0",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "花れんぼ",
+            "評価": 3.3,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJW0-D6V9cGGARKMKb8nUlyAc",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "カラオケまねきねこ日ノ出町駅前店",
+            "評価": 3.5,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJ5XqtjopcGGARV-MXjZfeWE0",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "カラオケ リワー",
+            "評価": 3.8,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJkwLpVfVcGGARjQMu-QjdIg0",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "カラオケ館 横浜関内店",
+            "評価": 3.4,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJ997ooPZcGGAROLbud6jOcYs",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "カラオケ ビッグエコー横浜関内店",
+            "評価": 3.6,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJq8nqrvZcGGARtUFk9GyEggk",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "ブルーブラッド『BLUE BLOOD』",
+            "評価": 5,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJc2yfXNZdGGARgaRsEbKRFgM",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "カラオケスナック 39",
+            "評価": 4.7,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJvXAx3B5dGGART7_egNMg0c8",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "カラオケバーはな 野毛店",
+            "評価": 4.8,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJIYcymbpdGGAR8eF-4PYQ49A",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "カラオケまねきねこ伊勢佐木モール店",
+            "評価": 3.6,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJU21bfPNcGGARS1QXbq7G6Bo",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "スナック RIYO",
+            "評価": 3.8,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJ99YmhqVdGGARAwiueZ63X0Q",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "カラオケ10x10（テンテン）",
+            "評価": 3.6,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJEQaAf_RcGGARQWLKcNThigw",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "Sea of love",
+            "評価": 4.8,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJHcwusZRdGGARsBwsxLsaQoc",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "カラオケパセラ横浜関内店",
+            "評価": 3.8,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJSybZgvNcGGAROOdnIzqzFC8",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "カラオケバー",
+            "評価": 0,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJ-QuqE89dGGARH8PnObm8Obs",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "カラオケ",
+            "評価": 0,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJUcubu_FcGGARhNfvWyNJUqI",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "リップ深夜カラオケタイム",
+            "評価": 4.2,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJ__9zMvdcGGARuZ4MXGCDzIg",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "せらくんち",
+            "評価": 0,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJNwR5tn9dGGARLIPPQshCLbc",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "カラオケ コート・ダジュール 横浜関内店",
+            "評価": 3.3,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJSb7FqfZcGGARvcVtc-3jK_w",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "Karaoke ELLE",
+            "評価": 0,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJtdY7TvNcGGARIEdZgb3Q49Y",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "家庭料理の店 登美子",
+            "評価": 0,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJEVuyXjNdGGAR9O8eSd0viMo",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "ムータン",
+            "評価": 3.3,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJ-ZXtA_VcGGARG5e2G7iFfbQ",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "カラオケスナック 風船",
+            "評価": 3.9,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJm2ygdGBcGGARIRjrPPJ0Eys",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "bulldog(ブルドッグ)",
+            "評価": 5,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJ2YeGX3BdGGARaqm1jisZkhk",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "karaoke & darts bar 赤い靴",
+            "評価": 3.8,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJT3vV-l9cGGARPvh_GiBFl2c",
+            "昼価格": null,
+            "夜価格": null
+        }
+    ],
+    "水族館・動物園": [
+        {
+            "名前": "UWS アクアリウム アンダーウォータースペース",
+            "評価": 3.2,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJbyOOHnJdGGARZZ9nIbmnN0c",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "メダカの学校水槽",
+            "評価": 5,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJccAsS8tdGGAR6PKWXIT2SC8",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "おさかな合唱水槽",
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJP4ynR_xdGGARIOI8MHAynr0",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "水中観察水槽",
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJ-8lFj_tdGGARe_rvRqXhNBs",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "イケメン水槽",
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJCxfFmExdGGARhaF9X3qff40",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "野毛山動物園",
+            "評価": 4.3,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJ_5_yqmNcGGARoy_xCj62YNA",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "神奈川県 横浜市 屋内アニマルテーマパーク",
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJfbOOEFldGGARmwkd2WLrOy4",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "屋内アニマルテーマパーク Moff animal world MARK IS みなとみらい店",
+            "評価": 3.5,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJ28f4SGddGGARDRN5PpYSYA8",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "カグー舎",
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJWd-ulKVdGGAR1L48IbhTL0E",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "大池",
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJJwtIt65dGGARtQFEXyeTxqI",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "ペンギン舎",
+            "評価": 4.5,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJbdQ8e7ldGGARZgfsYGB1bYs",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "なかよし広場",
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJ4yme2WJdGGARyK0eIuVAPA0",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "なかよし広場",
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJ5yTV95NdGGAR6-boLEbmm0U",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "フサオマキザル",
+            "評価": 5,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJo0YYRiFdGGARSfJp7JfAXAU",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "オグロワラビー舎",
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJCQNzP5FdGGARU9bbPO6STlU",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "アビシニアコロブス舎",
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJgSgo4rxdGGARXI2ysDw4BV0",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "オオタカ舎",
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJd6Yxp6ddGGARA24McHB2aIw",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "ハヤブサ舎",
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJ7Q3WS7FdGGAR_QggkC243Do",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "コンドル舎",
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJMelr6P9dGGARj-bO6PUYzuY",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "フクロウ舎",
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJ045wbt5dGGAR75spntfe7lE",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "ノスリ舎",
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJqX3yebJdGGARwPpl02r9KxU",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "四季の滝",
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJdfcU7nxdGGARf620wKm1w8E",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "ツキノワグマ舎",
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJ_-DGOTtdGGARJHEv4a_S0JM",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "アカエリマキキツネザル",
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJj7M47y1dGGARgRulcaH851I",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "ミナミコアリクイ舎",
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJ9QOox55dGGAREGdOPPX4aFQ",
+            "昼価格": null,
+            "夜価格": null
+        }
+    ],
+    "ボウリング": [
+        {
+            "名前": "横浜ヤングボウル",
+            "評価": 3.5,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJdxDCVPNcGGARsEG8AIdgAo4",
+            "昼価格": null,
+            "夜価格": null
+        }
+    ],
+    "美術館・博物館": [
+        {
+            "名前": "ARTSPACE Iwabuchi アートスペースイワブチ",
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJz3IZF2dcGGARGzlWNRGz9Pc",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "書道用品専門店 ゴールデン文具株式会社",
+            "評価": 3.4,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJC2XEx19cGGARP25OAeoQz8E",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "ギャラリー ぴお",
+            "評価": 3,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJYelmyF9cGGARqAEiRrIyG1Q",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "桜木町駅鉄道歴史展示ギャラリー",
+            "評価": 5,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJ05YSF7ldGGARxONP2NwufcI",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "日本丸メモリアルパーク",
+            "評価": 4.2,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJpVqwKFxcGGARYKCaVU8aD7I",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "横浜みなと博物館",
+            "評価": 4.1,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJQzCiKVxcGGARDJorgF2x_-4",
+            "昼価格": null,
+            "夜価格": null
+        }
+    ],
+    "公園": [
+        {
+            "名前": "桜木町駅前広場",
+            "評価": 3.9,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJo-zRRl5cGGAR7SArdbeZ558",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "旧東横線跡 遊歩道",
+            "評価": 3.7,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJfZtIwwFdGGAR5iUEmZMwnQw",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "クロスゲート屋上庭園",
+            "評価": 5,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJdcEYzlVdGGARze4MEaHvB0w",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "宮崎町公園",
+            "評価": 2.8,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJ51cj1GBcGGARlU4j4iW71F4",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "紅葉ケ丘公園",
+            "評価": 3.8,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJlYIh3GZcGGARSfg6-hd_IjQ",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "日本丸メモリアルパーク",
+            "評価": 4.2,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJpVqwKFxcGGARYKCaVU8aD7I",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "汽車道",
+            "評価": 4.4,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJ33fbt15cGGAR4RxIXG3lp20",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "北仲通北第一公園",
+            "評価": 3.8,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJxe8a6F5cGGARPrYeaOQN0JE",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "シーカヤックパーク",
+            "評価": 3.7,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJAUDpOFxcGGARs9STs8rEKUs",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "シドモア桜",
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJu8pwOtldGGARBo7WLUWCm5I",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "大岡川夢ロード",
+            "評価": 3.9,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJERC_F19cGGARFurng_wDa6A",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "横浜大世界",
+            "評価": 3.6,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJHdJrTuJcGGARGt8tEB4cC0U",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "よこはまコスモワールド",
+            "評価": 4.1,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJm1PMo1lcGGARC2ypzT_OllQ",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "ベビースターランド",
+            "評価": 3.5,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJNQgAneRcGGARAzj7Mo7M2a8",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "アニバーサリー",
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJi8aEU_NcGGAR0bSFyc8ukEc",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "JFlight",
+            "評価": 4.6,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJDdvNN2dcGGAREFe9yRk19BY",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "横浜トリックアートクルーズ",
+            "評価": 3.9,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAdF1cGGARTX3WluOAoTs",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "カーニバルストリート",
+            "評価": 3.9,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJnZ6g3FtcGGAR_2Qk6mq4xqc",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "株式会社エスエフジーエージェンシー",
+            "評価": 5,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJ6W7t2TNdGGAR60n6oku51zM",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "横浜公園 水の広場",
+            "評価": 4.2,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJdbiXAuVdGGARCJalESUdFN4",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "横浜公園 噴水",
+            "評価": 3.9,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJd8uKgvpcGGAR0wEOEl8x93g",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "横浜アンパンマンこどもミュージアム",
+            "評価": 4,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJ_WgpQcRdGGARdbUYbJAEVNE",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "アソビル ASOBUILD",
+            "評価": 3.7,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJZ2s-QspdGGARqHOb27Hgr_I",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "上海工芸広場",
+            "評価": 4,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJHdJrTuJcGGARiRaz4Rq0gUE",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "aimable aime",
+            "評価": 3,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJk7UHtOtdGGARpu9pfOjRQY4",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "横浜高島屋 プレイランド",
+            "評価": 3.3,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJs6IBss1dGGAReAuIMAFZm7w",
+            "昼価格": null,
+            "夜価格": null
+        },
+        {
+            "名前": "野毛三丁目公園",
+            "評価": 3,
+            "距離": 100,
+            "URL": "https://www.google.com/maps/place/?q=place_id:ChIJq0LWQGBcGGARtE8kt02KEdQ",
+            "昼価格": null,
+            "夜価格": null
+        }
+    ]
+}
